@@ -1,4 +1,3 @@
-
 require(IsingSampler)
 require(tidyverse)
 require(infotheo)
